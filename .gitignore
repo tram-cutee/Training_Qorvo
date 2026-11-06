@@ -1,0 +1,8 @@
+xcelium.d/
+*.log
+xrun.key
+xrun.history
+.simvision/
+waves.shm/
+*.shm/
+*.vcd
